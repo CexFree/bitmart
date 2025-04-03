@@ -55,6 +55,7 @@
 请务必通过官方渠道下载App，您可以直接复制以下链接到浏览器中打开，然后完成下载、安装。
 
 * 下载链接1：https://www.bitmart.cool/static-file/resources/public/apk/bitmart.apk
+* 下载链接2：https://static.bmxdefender.com/static-file/resources/public/apk/bitmart.apk
 
 ### 步骤一：复制链接，粘贴到浏览器(chrome浏览器,QQ浏览器,夸克浏览器,手机自带浏览器等) 下载  
 ### 步骤二：手机中找到下载后的apk安装包，点击按照包，即可安装。
