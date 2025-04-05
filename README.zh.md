@@ -61,7 +61,7 @@
 ### 步骤二：手机中找到下载后的apk安装包，点击按照包，即可安装。
 
 #### 安卓系统下载BitMart App 视频教程：
-
+https://youtube.com/shorts/Zmlc5zO78Rc
 
 
 #### 安卓系统下载BitMart App 图文教程：
