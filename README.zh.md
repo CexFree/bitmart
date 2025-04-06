@@ -6,8 +6,8 @@
 
 
 # 二.无VPN，如何下载及安装BitMart手机App（iOS版/Android版）
-## 1. iOS： 注册新的Apple ID，登录App Store，下载App  
-详细步骤如下：
+## 1. iOS教程
+注册新的Apple ID，登录App Store，下载App，详细步骤如下：
 
 
 * 步骤一：访问苹果官方网站 https://appleid.apple.com/account
@@ -52,8 +52,8 @@
 
 待补充：TestFight 下载BitMart App
 
-## 2. Android：手机上通过链接下载APP
-请务必通过官方渠道下载App，您可以直接复制以下链接到浏览器中打开，然后完成下载、安装。
+## 2. Android教程
+手机上通过链接下载APP 。请务必通过官方渠道下载App，您可以直接复制以下链接到浏览器中打开，然后完成下载、安装。
 
     * 下载链接1：https://www.bitmart.cool/static-file/resources/public/apk/bitmart.apk
     * 下载链接2：https://static.bmxdefender.com/static-file/resources/public/apk/bitmart.apk
@@ -61,13 +61,12 @@
 * 步骤一：复制链接，粘贴到浏览器(chrome浏览器,QQ浏览器,夸克浏览器,手机自带浏览器等) 下载  
 * 步骤二：手机中找到下载后的apk安装包，点击按照包，即可安装。
 
-#### 安卓系统下载BitMart App 视频教程
+#### 视频教程
 https://youtube.com/shorts/Zmlc5zO78Rc
 
 
-#### 安卓系统下载BitMart App 图文教程
+#### 图文教程
 ![](./images/zh_android_download.png)
-
 
 
 #### 如果无法安装怎么办？
@@ -120,7 +119,7 @@ https://youtube.com/shorts/Zmlc5zO78Rc
 ![](./images/zh_register_app.png)
 
 
-## 2. 使用APP浏览器 （需要VPN，针对iOS版本)
+## 2. 使用iOS上的APP浏览器 （需要VPN)
     * 注意：IP来自美国，香港，荷兰的用户会被禁止注册，如果您使用vpn，请不要代理到这些国家。
 
 * 步骤一：打开VPN软件【Shadowrocket】，线路选择【台湾/日本】，全局路由选择【代理】，然后开启【开关】
@@ -132,7 +131,7 @@ https://youtube.com/shorts/Zmlc5zO78Rc
 ![](./images/zh_register_ios.png)
 
 
-## 3. 使用APP浏览器 （需要VPN，针对Android版本)
+## 3. 使用Android上的APP浏览器 （需要VPN)
     * 注意：IP来自美国，香港，荷兰的用户会被禁止注册，如果您使用vpn，请不要代理到这些国家。
 
 * 步骤一：打开VPN软件【Clash Meta】，开启【运行中】，点击【代理】->【模式】-> 【全局模式】，线路选择【日本】
@@ -145,19 +144,20 @@ https://youtube.com/shorts/Zmlc5zO78Rc
 
 
 # 四.Mac，Windows上开启VPN但是访问不了bitmart.com?
-## 1. Mac，Windows端开启了VPN，但是依然访问不上bitmart.com，提示链接失败或者提示禁止访问(denied)
+
+1. Mac，Windows端开启了VPN，但是依然访问不上bitmart.com，提示链接失败或者提示禁止访问(denied)
    访问YouTube，NetFlix 看是否成功，如果不成功，说明vpn代理失败，请检查vpn是否欠费等。
    
 ![](./images/zh_41.png)
 
 
-## 2. Mac，Windows端开启了VPN，访问YouTube正常，依然访问不上bitmart.com
+2. Mac，Windows端开启了VPN，访问YouTube正常，依然访问不上bitmart.com
    这说明你的vpn是正常工作的，但是bitmart.com没有经过代理。所以这时候你可以打开全局代理或者将bitmart.com加入到默认代理规则中。（不同vpn设置会有一些区别，但是功能是一样的）
 
 ![](./images/zh_42.png)
 
 
-## 3. Mac，Windows端开启了VPN，访问YouTube正常，也开启了全局模式，还是访问不了 bitmart.com, 那是因为有些VPN只代理 IPv4，不代理 IPv6 (类似快连VPN) ，需要设置禁用ipv6
+3. Mac，Windows端开启了VPN，访问YouTube正常，也开启了全局模式，还是访问不了 bitmart.com, 那是因为有些VPN只代理 IPv4，不代理 IPv6 (类似快连VPN) ，需要设置禁用ipv6
 
 * 3.1 下面是不支持IPv6的VPN：
 
@@ -192,7 +192,7 @@ https://youtube.com/shorts/Zmlc5zO78Rc
 **如果IPv6没有代理的问题，可以参考这个视频来禁用IPv6，让电脑只使用IPv4： https://www.youtube.com/watch?v=G7ON-rCDDw8**
 
 
-* 4.Mac，Windows，手机浏览器，不使用VPN是否可以访问BM官网吗？
+4. Mac，Windows，手机浏览器，不使用VPN是否可以访问BM官网吗？
 不可以，需要使用VPN。
 
 
