@@ -61,11 +61,11 @@
 * 步骤一：复制链接，粘贴到浏览器(chrome浏览器,QQ浏览器,夸克浏览器,手机自带浏览器等) 下载  
 * 步骤二：手机中找到下载后的apk安装包，点击按照包，即可安装。
 
-#### 安卓系统下载BitMart App 视频教程：
+#### 安卓系统下载BitMart App 视频教程
 https://youtube.com/shorts/Zmlc5zO78Rc
 
 
-#### 安卓系统下载BitMart App 图文教程：
+#### 安卓系统下载BitMart App 图文教程
 ![](./images/zh_android_download.png)
 
 
@@ -160,6 +160,7 @@ https://youtube.com/shorts/Zmlc5zO78Rc
 ## 3. Mac，Windows端开启了VPN，访问YouTube正常，也开启了全局模式，还是访问不了 bitmart.com, 那是因为有些VPN只代理 IPv4，不代理 IPv6 (类似快连VPN) ，需要设置禁用ipv6
 
 * 3.1 下面是不支持IPv6的VPN：
+
 | 工具/VPN 名称                                | IPv6 代理支持      | 特点                  |
 |------------------------------------------|----------------|---------------------|
 | 快连VPN                                    | ❌ 不代理 IPv6     |                     | 国人常用，易泄露真实 IPv6 地址             |
@@ -170,6 +171,7 @@ https://youtube.com/shorts/Zmlc5zO78Rc
 | 大部分免费的 Shadowsocks 公共节点	                 | ❌ 默认不代理 IPv6	  | 如果服务端没配 IPv6，客户端直连  |
 
 * 3.2下面是支持IPv6的VPN：
+
 | 工具/框架                             | IPv6 代理支持         | 特点                            |
 |-----------------------------------|-------------------|-------------------------------|
 | Clash / Clash Verge / Clash Meta	 | ✅ 支持 IPv6 策略	     | 推荐配置 “tun 模式 + 阻断 IPv6” 或显式代理 |
@@ -190,7 +192,7 @@ https://youtube.com/shorts/Zmlc5zO78Rc
 **如果IPv6没有代理的问题，可以参考这个视频来禁用IPv6，让电脑只使用IPv4： https://www.youtube.com/watch?v=G7ON-rCDDw8**
 
 
-#### 4.Mac，Windows，手机浏览器，不使用VPN是否可以访问BM官网吗？
+* 4.Mac，Windows，手机浏览器，不使用VPN是否可以访问BM官网吗？
 不可以，需要使用VPN。
 
 
