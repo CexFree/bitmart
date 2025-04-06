@@ -8,43 +8,44 @@
 # 二.无VPN，如何下载及安装BitMart手机App（iOS版/Android版）
 ## 1. iOS： 注册新的Apple ID，登录App Store，下载App  
 详细步骤如下：
-   
-### 步骤一：访问苹果官方网站 https://appleid.apple.com/account
+
+
+* 步骤一：访问苹果官方网站 https://appleid.apple.com/account
 <div style="text-align:center">
     <img src="./images/zh_register_app_id.png" style="width:20%; height:auto"/>
 </div>
   
-### 步骤二：点击右上角下拉菜单 >> 选择"创建你的 Apple ID"
-* 请务必记住用来注册账户的邮箱、密码及手机号码。
-* 目前除了荷兰,阿富汗,摩洛哥,印度,英国,中国大陆等不支持，其他都可选。
+* 步骤二：点击右上角下拉菜单 >> 选择"创建你的 Apple ID"
+  * 请务必记住用来注册账户的邮箱、密码及手机号码。
+  * 目前除了荷兰,阿富汗,摩洛哥,印度,英国,中国大陆等不支持，其他都可选。
 <div style="text-align:center">
     <img src="./images/zh_create_app_id.png" style="width:20%; height:auto"/>
 </div>
 
-### 步骤三：选择"地区"，填写常用邮箱，提供能够收到验证码的手机号码。
-* 请务必记住用来注册账户的邮箱、密码及手机号码。
-* 在下图中荷兰,阿富汗,摩洛哥,印度,英国,中国大陆等不支持，目前BitMart APP暂不支持，其他都可选。
+* 步骤三：选择"地区"，填写常用邮箱，提供能够收到验证码的手机号码。
+  * 请务必记住用来注册账户的邮箱、密码及手机号码。
+  * 在下图中荷兰,阿富汗,摩洛哥,印度,英国,中国大陆等不支持，目前BitMart APP暂不支持，其他都可选。
 <div style="text-align:center">
     <img src="./images/zh_select_app_id.png" style="width:40%; height:auto"/>
 </div>
 
-### 步骤四：输入邮箱和手机收到的验证码后，即可成功注册 Apple ID
+* 步骤四：输入邮箱和手机收到的验证码后，即可成功注册 Apple ID
 
 <div style="text-align:center">
     <img src="./images/zh_accept_code_app_id.png" style="width:60%; height:auto"/>
 </div>
 
-### 步骤五：打开 App Store >> 登录新注册的 Apple ID 和密码
+* 步骤五：打开 App Store >> 登录新注册的 Apple ID 和密码
 <div style="text-align:center">
     <img src="./images/zh_login_app_id.png" style="width:20%; height:auto"/>
 </div>
 
-### 步骤六：登录成功 >> 点击 "搜索" >> 输入 "BitMart" >> 点击 "获取"
+* 步骤六：登录成功 >> 点击 "搜索" >> 输入 "BitMart" >> 点击 "获取"
 <div style="text-align:center">
     <img src="./images/zh_search_app_id.png" style="width:20%; height:auto"/>
 </div>
 
-### 步骤七：点击“获取”BitMart App 后，可能需要以下步骤完成创建。创建完成后，BitMart App 将自动下载。
+* 步骤七：点击“获取”BitMart App 后，可能需要以下步骤完成创建。创建完成后，BitMart App 将自动下载。
 <div style="text-align:center">
     <img src="./images/zh_download_app_id.png" style="width:40%; height:auto"/>
 </div>
@@ -54,11 +55,11 @@
 ## 2. Android：手机上通过链接下载APP
 请务必通过官方渠道下载App，您可以直接复制以下链接到浏览器中打开，然后完成下载、安装。
 
-* 下载链接1：https://www.bitmart.cool/static-file/resources/public/apk/bitmart.apk
-* 下载链接2：https://static.bmxdefender.com/static-file/resources/public/apk/bitmart.apk
+    * 下载链接1：https://www.bitmart.cool/static-file/resources/public/apk/bitmart.apk
+    * 下载链接2：https://static.bmxdefender.com/static-file/resources/public/apk/bitmart.apk
 
-### 步骤一：复制链接，粘贴到浏览器(chrome浏览器,QQ浏览器,夸克浏览器,手机自带浏览器等) 下载  
-### 步骤二：手机中找到下载后的apk安装包，点击按照包，即可安装。
+* 步骤一：复制链接，粘贴到浏览器(chrome浏览器,QQ浏览器,夸克浏览器,手机自带浏览器等) 下载  
+* 步骤二：手机中找到下载后的apk安装包，点击按照包，即可安装。
 
 #### 安卓系统下载BitMart App 视频教程：
 https://youtube.com/shorts/Zmlc5zO78Rc
@@ -74,32 +75,32 @@ https://youtube.com/shorts/Zmlc5zO78Rc
 打开【自带浏览器】【复制链接】到浏览器中点击【前往】进行下载，遇到提示点击【继续安装】，最后界面上出现打开即表示安装完成。
 ![](./images/zh_android_huawei_download.jpeg)
 
-2.华为手机鸿蒙版  
+##### 2.华为手机鸿蒙版  
 打开【自带浏览器】【复制链接】到浏览器中点击【前往】进行下载，遇到提示点击【仍要下载】，下载完成使用【卓易通】进行安装了，最后界面上出现APP即表示安装完成。
 ![](./images/zh_android_huawei_hongmeng_download.png)
 
 
-3.小米手机  
+##### 3.小米手机  
 打开【自带浏览器】，将【复制链接】输入到浏览器中点击【->】进行下载，下载完成点击【安装】。最后界面上出现APP即表示安装完成。
 ![](./images/zh_android_xiaomi_download.jpeg)
 
 
-4.红米手机  
+##### 4.红米手机  
 打开【自带浏览器】，将【复制链接】输入到浏览器中点击【进入】进行下载，下载完成点击【打开】。如果遇到风险提示，则点击【单次安装授权】后就可以顺利安装了，最后界面上出现APP即表示安装完成。
 ![](./images/zh_android_redmi_download.png)
 
 
 
-5.OnePlus手机
+##### 5.OnePlus手机
 打开【自带浏览器】，将【复制链接】输入到浏览器，浏览器会自动进行下载，下载完成点击【安装】。最后界面上出现APP即表示安装完成。
 ![](./images/zh_android_oneplus_download.png)
 
-6.三星手机
+##### 6.三星手机
 打开【QQ浏览器】，将【复制链接】输入到浏览器中点击【进入】进行下载，下载完成点击【安装】。如果遇到提示，则进入【设置】，打钩【允许访问】后就可以顺利安装了，最后界面上出现APP即表示安装完成。
 ![](./images/zh_android_sum_download.png)
 
 
-7.其他品牌/类型的安卓手机
+##### 7.其他品牌/类型的安卓手机
 以尝试以下方法安装App。
 - 使用夸克浏览器或手机自带的浏览器下载安装
 - 设置—【应用和通知】—【权限管理】—【安全和隐私】—【应用锁】—【信任此应用】—再下载安装，就不再出现“风险”提示。
@@ -109,35 +110,36 @@ https://youtube.com/shorts/Zmlc5zO78Rc
 
 # 三.如何注册 BitMart
 ## 1. 使用APP端 （无需VPN)
-#### 步骤一：打开APP，选择注册，进入注册页面
-#### 步骤二：输入【邮箱】【密码】，勾选用户协议，点击【注册】
-#### 步骤三：进行图形验证，点击【确定】
-#### 步骤四：进行邮箱验证码验证，输入【6位数验证码】点击下一步
-#### 步骤五：提示【注册成功】表示您已经注册成功
+
+* 步骤一：打开APP，选择注册，进入注册页面
+* 步骤二：输入【邮箱】【密码】，勾选用户协议，点击【注册】
+* 步骤三：进行图形验证，点击【确定】
+* 步骤四：进行邮箱验证码验证，输入【6位数验证码】点击下一步
+* 步骤五：提示【注册成功】表示您已经注册成功
 
 ![](./images/zh_register_app.png)
 
 
 ## 2. 使用APP浏览器 （需要VPN，针对iOS版本)
-* 注意：IP来自美国，香港，荷兰的用户会被禁止注册，如果您使用vpn，请不要代理到这些国家。
+    * 注意：IP来自美国，香港，荷兰的用户会被禁止注册，如果您使用vpn，请不要代理到这些国家。
 
-#### 步骤一：打开VPN软件【Shadowrocket】，线路选择【台湾/日本】，全局路由选择【代理】，然后开启【开关】
-#### 步骤二：打开【safari浏览器】，复制邀请链接 https://www.bitmart.com/invite/cNBNmS/cn ，点【前往】，进入页面
-#### 步骤三：页面中点击注册，界面会下拉到注册框，然后输入【邮箱和密码】，勾选【用户协议】，点击注册
-#### 步骤四：进行【图形验证】，点击【确定】下一步
-#### 步骤五：输入【邮箱验证码】，点击【提交】，当显示注册成功则表示已注册完成
+* 步骤一：打开VPN软件【Shadowrocket】，线路选择【台湾/日本】，全局路由选择【代理】，然后开启【开关】
+* 步骤二：打开【safari浏览器】，复制邀请链接 https://www.bitmart.com/invite/cNBNmS/cn ，点【前往】，进入页面
+* 步骤三：页面中点击注册，界面会下拉到注册框，然后输入【邮箱和密码】，勾选【用户协议】，点击注册
+* 步骤四：进行【图形验证】，点击【确定】下一步
+* 步骤五：输入【邮箱验证码】，点击【提交】，当显示注册成功则表示已注册完成
 
 ![](./images/zh_register_ios.png)
 
 
 ## 3. 使用APP浏览器 （需要VPN，针对Android版本)
-* 注意：IP来自美国，香港，荷兰的用户会被禁止注册，如果您使用vpn，请不要代理到这些国家。
+    * 注意：IP来自美国，香港，荷兰的用户会被禁止注册，如果您使用vpn，请不要代理到这些国家。
 
-#### 步骤一：打开VPN软件【Clash Meta】，开启【运行中】，点击【代理】->【模式】-> 【全局模式】，线路选择【日本】
-#### 步骤二：打开【夸克浏览器】，复制邀请链接 https://www.bitmart.com/invite/cNBNmS/cn ，点【前往】，进入页面
-#### 步骤三：页面中点击注册，界面会下拉到注册框，然后输入【邮箱和密码】，勾选【用户协议】，点击注册
-#### 步骤四：进行【图形验证】，点击【确定】下一步
-#### 步骤五：输入【邮箱验证码】，点击【提交】，当显示注册成功则表示已注册完成
+* 步骤一：打开VPN软件【Clash Meta】，开启【运行中】，点击【代理】->【模式】-> 【全局模式】，线路选择【日本】
+* 步骤二：打开【夸克浏览器】，复制邀请链接 https://www.bitmart.com/invite/cNBNmS/cn ，点【前往】，进入页面
+* 步骤三：页面中点击注册，界面会下拉到注册框，然后输入【邮箱和密码】，勾选【用户协议】，点击注册
+* 步骤四：进行【图形验证】，点击【确定】下一步
+* 步骤五：输入【邮箱验证码】，点击【提交】，当显示注册成功则表示已注册完成
 
 ![](./images/zh_register_android.jpeg)
 
@@ -157,7 +159,7 @@ https://youtube.com/shorts/Zmlc5zO78Rc
 
 ## 3. Mac，Windows端开启了VPN，访问YouTube正常，也开启了全局模式，还是访问不了 bitmart.com, 那是因为有些VPN只代理 IPv4，不代理 IPv6 (类似快连VPN) ，需要设置禁用ipv6
 
-#### 3.1 下面是不支持IPv6的VPN：
+* 3.1 下面是不支持IPv6的VPN：
 | 工具/VPN 名称                                | IPv6 代理支持      | 特点                  |
 |------------------------------------------|----------------|---------------------|
 | 快连VPN                                    | ❌ 不代理 IPv6     |                     | 国人常用，易泄露真实 IPv6 地址             |
@@ -167,7 +169,7 @@ https://youtube.com/shorts/Zmlc5zO78Rc
 | 一些浏览器插件类代理（如 SwitchyOmega 配 ShadowSocks） | 	❌ 默认不处理 IPv6	 | 需要手动设置或禁用 IPv6      |
 | 大部分免费的 Shadowsocks 公共节点	                 | ❌ 默认不代理 IPv6	  | 如果服务端没配 IPv6，客户端直连  |
 
-#### 3.2下面是支持IPv6的VPN：
+* 3.2下面是支持IPv6的VPN：
 | 工具/框架                             | IPv6 代理支持         | 特点                            |
 |-----------------------------------|-------------------|-------------------------------|
 | Clash / Clash Verge / Clash Meta	 | ✅ 支持 IPv6 策略	     | 推荐配置 “tun 模式 + 阻断 IPv6” 或显式代理 |
@@ -175,7 +177,7 @@ https://youtube.com/shorts/Zmlc5zO78Rc
 | WireGuard	                        | ✅ 完美支持 IPv6	      | 安全、轻量、跨平台，需服务端配置支持            |
 | V2Ray / Xray-core                 | 	✅ 可配置 IPv6 路由	   | 高级玩法，支持度强，但配置稍复杂              |
 
-#### 3.3 我都没有使用上面的VPN，我该如何检查是否遗漏 IPv6没有代理？
+* 3.3 我都没有使用上面的VPN，我该如何检查是否遗漏 IPv6没有代理？
    打开这个网站测试：https://ipleak.net/
  
   ![](./images/zh_433.png)
