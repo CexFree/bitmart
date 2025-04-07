@@ -120,7 +120,8 @@ https://youtube.com/shorts/Zmlc5zO78Rc
 
 
 ## 2. 使用iOS上的APP浏览器 （需要VPN)
-    * 注意：IP来自美国，香港，荷兰的用户会被禁止注册，如果您使用vpn，请不要代理到这些国家。
+    * 注意1：请使用固定的VPN线路，而不是随机。
+    * 注意2：IP来自美国，香港，荷兰的用户会被禁止注册，如果您使用vpn，请不要代理到这些国家。
 
 * 步骤一：打开VPN软件【Shadowrocket】，线路选择【台湾/日本】，全局路由选择【代理】，然后开启【开关】
 * 步骤二：打开【safari浏览器】，复制邀请链接 https://www.bitmart.com/invite/cNBNmS/cn ，点【前往】，进入页面
@@ -132,7 +133,8 @@ https://youtube.com/shorts/Zmlc5zO78Rc
 
 
 ## 3. 使用Android上的APP浏览器 （需要VPN)
-    * 注意：IP来自美国，香港，荷兰的用户会被禁止注册，如果您使用vpn，请不要代理到这些国家。
+    * 注意1：请使用固定的VPN线路，而不是随机。
+    * 注意2：IP来自美国，香港，荷兰的用户会被禁止注册，如果您使用vpn，请不要代理到这些国家。
 
 * 步骤一：打开VPN软件【Clash Meta】，开启【运行中】，点击【代理】->【模式】-> 【全局模式】，线路选择【日本】
 * 步骤二：打开【夸克浏览器】，复制邀请链接 https://www.bitmart.com/invite/cNBNmS/cn ，点【前往】，进入页面
