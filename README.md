@@ -1,8 +1,7 @@
-# bitmart
-Tutorial on using bitmart exchange. |  关于使用 bitmart 交易所的教程。
+#  关于使用 bitmart 交易所的教程。| Tutorial on using bitmart exchange.
 
 
-🌐 [English](README.en.md) | 🇨🇳 [简体中文](README.zh.md)
+* 🇨🇳 [如何注册 BitMart](README.zh-register.md) 
 
-This project supports multiple languages.  | 本项目支持多语言说明文档。
+本项目支持多语言说明文档。  |  This project supports multiple languages.
 
