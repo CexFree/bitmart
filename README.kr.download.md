@@ -1,8 +1,8 @@
 
 # 一.BitMart 모바일 앱 다운로드 및 설치 방법 (iOS 버전/Android 버전)
-## 1. iOS 튜토리얼
+## (1). iOS 튜토리얼
 
-#### Register a new account
+#### 1.Register a new account
 * Step 1: Use Safari browser to visit Apple's official website https://appleid.apple.com/account
 * Step 2: Click the drop-down menu in the upper right corner >> Select [Create New Apple Account]
 * Step 3: Enter your name and country [Hong Kong]
@@ -12,14 +12,14 @@
 
 ![](./images/en_ios_download_register.jpg)
 
-#### Log in to a new account and search for downloads
+#### 2.Log in to a new account and search for downloads
 * Step 1: Log out of the logged-in Apple ID
 * Step 2: Log in to the newly registered Apple ID and enter [Bitmart] to search and download
 
 ![](./images/en_ios_download_search.jpg)
 
 
-## 2. 안드로이드 튜토리얼
+## (2). 안드로이드 튜토리얼
 다음 링크를 직접 복사하여 모바일 브라우저에서 열어 다운로드 및 설치를 완료할 수 있습니다.
 
     * 다운로드 링크 1：https://h5.bitmart.com/android-app/en
