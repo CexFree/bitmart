@@ -6,7 +6,7 @@
 * Step 1: Use Safari browser to visit Apple's official website https://appleid.apple.com/account
 * Step 2: Click the drop-down menu in the upper right corner >> Select [Create New Apple Account]
 * Step 3: Enter your name and country [Hong Kong]
-    * Note that country selection: Netherlands, Afghanistan, Morocco, India, United Kingdom, Mainland China, etc. are not supported, and all others are optional
+    * Note that country selection: Netherlands, Afghanistan, Morocco, India, United Kingdom, Mainland China, Korea, etc. are not supported, and all others are optional
 * Step 4: Select your birthday, fill in your commonly used email address, and mobile phone number
 * Step 5: After entering the email address and mobile phone verification code, click [Continue]. If the registration is successful, you will see the sign out button.
 
