@@ -1,6 +1,6 @@
 
 # 一.无VPN，如何下载及安装BitMart手机App（iOS版/Android版）
-## 1. iOS教程
+## (1). iOS教程
 注册新的Apple ID，登录App Store，下载App，详细步骤如下：
 
 
@@ -18,7 +18,7 @@
 
 * 步骤三：选择"地区"，填写常用邮箱，提供能够收到验证码的手机号码。
   * 请务必记住用来注册账户的邮箱、密码及手机号码。
-  * 在下图中荷兰,阿富汗,摩洛哥,印度,英国,中国大陆等不支持，目前BitMart APP暂不支持，其他都可选。
+  * 在下图中荷兰,阿富汗,摩洛哥,印度,英国,中国大陆,韩国等不支持，目前BitMart APP暂不支持，其他都可选。
 <div style="text-align:center">
     <img src="./images/zh_select_app_id.png" style="width:40%; height:auto"/>
 </div>
@@ -46,7 +46,7 @@
 
 待补充：TestFight 下载BitMart App
 
-## 2. Android教程
+## (2). Android教程
 手机上通过链接下载APP 。请务必通过官方渠道下载App，您可以直接复制以下链接到浏览器中打开，然后完成下载、安装。
 
     * 下载链接1：https://www.bitmart.cool/static-file/resources/public/apk/bitmart.apk
