@@ -1,10 +1,10 @@
 
 # 一.How to download and install the BitMart mobile app (iOS/Android)
-## 1. iOS Tutorial
+## (1) iOS Tutorial
 Register a new Apple ID, log in to the App Store, and download the App. The detailed steps are as follows:
 
 
-#### Register a new account
+#### 1.Register a new account
 * Step 1: Use Safari browser to visit Apple's official website https://appleid.apple.com/account
 * Step 2: Click the drop-down menu in the upper right corner >> Select [Create New Apple Account]
 * Step 3: Enter your name and country [Hong Kong]
@@ -14,14 +14,14 @@ Register a new Apple ID, log in to the App Store, and download the App. The deta
 
 ![](./images/en_ios_download_register.jpg)
 
-#### Log in to a new account and search for downloads
+#### 2.Log in to a new account and search for downloads
 * Step 1: Log out of the logged-in Apple ID
 * Step 2: Log in to the newly registered Apple ID and enter [Bitmart] to search and download
 
 ![](./images/en_ios_download_search.jpg)
 
 
-## 2. Android Tutorials
+## (2) Android Tutorials
 You can copy the following link directly and open it in your mobile browser to complete the download and installation.
 
     * Download link 1: https://h5.bitmart.com/android-app/en
