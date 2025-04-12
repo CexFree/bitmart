@@ -15,8 +15,8 @@ Register a new Apple ID, log in to the App Store, and download the App. The deta
 ![](./images/en_ios_download_register.jpg)
 
 #### 2.Log in to a new account and search for downloads
-* Step 1: Log out of the logged-in Apple ID
-* Step 2: Log in to the newly registered Apple ID and enter [Bitmart] to search and download
+* Step 1-2: Log out of the logged-in Apple ID
+* Step 3-4: Log in to the newly registered Apple ID and enter [Bitmart] to search and download
 
 ![](./images/en_ios_download_search.jpg)
 
