@@ -2,21 +2,22 @@
 # 一.BitMart 모바일 앱 다운로드 및 설치 방법 (iOS 버전/Android 버전)
 ## (1). iOS 튜토리얼
 
-#### 1.Register a new account
-* Step 1: Use Safari browser to visit Apple's official website https://appleid.apple.com/account
-* Step 2: Click the drop-down menu in the upper right corner >> Select [Create New Apple Account]
-* Step 3: Enter your name and country [Hong Kong]
-    * Note that country selection: Netherlands, Afghanistan, Morocco, India, United Kingdom, Mainland China, Korea, etc. are not supported, and all others are optional
-* Step 4: Select your birthday, fill in your commonly used email address, and mobile phone number
-* Step 5: After entering the email address and mobile phone verification code, click [Continue]. If the registration is successful, you will see the sign out button.
+#### 1. 새 계정 등록하기
 
-![](./images/en_ios_download_register.jpg)
+* Step 1: Safari 브라우저를 사용하여 Apple 공식 웹사이트 https://appleid.apple.com/account 에 접속합니다.
+* Step 2: 오른쪽 상단의 드롭다운 메뉴를 클릭한 후 [새로운 Apple 계정 만들기]를 선택합니다.
+* Step 3: 이름과 국가를 입력합니다. 국가 선택 시 [홍콩]으로 설정하세요.
+  * 국가 선택 주의사항: 네덜란드, 아프가니스탄, 모로코, 인도, 영국, 중국 본토, 한국 등은 지원되지 않으며, 이 외 대부분의 국가는 선택 가능합니다.
+* Step 4: 생년월일을 선택하고 자주 사용하는 이메일 주소와 휴대폰 번호를 입력합니다.
+* Step 5: 입력한 이메일 주소와 휴대폰 번호로 전송된 인증 코드를 입력한 후 [계속]을 클릭하세요. 등록이 성공적으로 완료되면, '로그아웃'버튼이 표시됩니다.
 
-#### 2.Log in to a new account and search for downloads
-* Step 1: Log out of the logged-in Apple ID
-* Step 2: Log in to the newly registered Apple ID and enter [Bitmart] to search and download
+![](./images/kr_ios_download_register.jpg)
 
-![](./images/en_ios_download_search.jpg)
+#### 2.새 계정으로 로그인하고 앱 검색 및 다운로드하기
+* Step 1-2: 현재 로그인되어 있는 Apple ID에서 로그아웃합니다.
+* Step 3-4: 새로 등록한 Apple ID로 로그인한 후, [Bitmart] 를 검색하여 다운로드합니다.
+
+![](./images/kr_ios_download_search.jpg)
 
 
 ## (2). 안드로이드 튜토리얼
