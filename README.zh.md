@@ -16,7 +16,7 @@
 
 
 ## 4. 活动链接打不开怎么办？(无需VPN)
-如您无法打开邀请链接，需要您手动修改网址 www.bitmart.com 为 www.bm-link.com，请参考以下案例：
+如您无法打开活动链接，需要您手动修改网址 www.bitmart.com 为 www.bm-link.com，请参考以下案例：
 
 将链接：https://www.bitmart.com/activity/xxxxxxxx/zh-CN 修改为 https://www.bm-link.com/activity/xxxxxxxx/zh-CN ，再通过浏览器打开。
 
