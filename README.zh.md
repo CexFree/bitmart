@@ -6,19 +6,20 @@
 
 ## 2. 注册和下载 (无需VPN)
 * 🇨🇳 [注册 BitMart教程](README.zh.register.md)
-* 🇨🇳 [下载 BitMart APP教程](README.zh.download.md)
+* 🇨🇳 [下载 BitMart Android APP教程](README.zh.android-download.md)
+* 🇨🇳 [下载 BitMart iOS APP教程](README.zh.ios-download.md)
 
 
 ## 3. 邀请链接打不开怎么办？(无需VPN)
-如您无法打开邀请链接，需要您手动修改网址 www.bitmart.com 为 www.bm-link.com，请参考以下案例：
+如您无法打开邀请链接，需要您手动修改网址 www.bitmart.com 为 www.bm-link.com, 请参考以下案例：
 
-将链接：https://www.bitmart.com/invite/123456789/zh-CN 修改为 https://www.bm-link.com/invite/123456789/zh-CN ，再通过浏览器打开。
+将链接：https://www.bitmart.com/invite/123456789/zh-CN 修改为 https://www.bm-link.com/invite/123456789/zh-CN, 再通过浏览器打开。
 
 
 ## 4. 活动链接打不开怎么办？(无需VPN)
-如您无法打开活动链接，需要您手动修改网址 www.bitmart.com 为 www.bm-link.com，请参考以下案例：
+如您无法打开邀请链接，需要您手动修改网址 www.bitmart.com 为 www.bm-link.com, 请参考以下案例：
 
-将链接：https://www.bitmart.com/activity/xxxxxxxx/zh-CN 修改为 https://www.bm-link.com/activity/xxxxxxxx/zh-CN ，再通过浏览器打开。
+将链接：https://www.bitmart.com/activity/xxxxxxxx/zh-CN 修改为 https://www.bm-link.com/activity/xxxxxxxx/zh-CN, 再通过浏览器打开。
 
 
 
